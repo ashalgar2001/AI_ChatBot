@@ -22,7 +22,7 @@ Users type a question or message into the input field and press "Send" or hit En
 
 Processing the Input:
 The chatbot processes the input using JavaScript.
-Responses can either be predefined or dynamically generated using an API like OpenAI's GPT.
+Responses can either be predefined or dynamically generated using an API.
 
 Displaying Responses:
 The chatbot displays the response in the chat window, mimicking a real conversation.
